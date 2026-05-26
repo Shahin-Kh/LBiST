@@ -9,7 +9,7 @@ The method operates on **look-bin maps** before the standard multilooking stage 
 - **Space**: along-track neighboring measurements  
 - **Time**: repeat-cycle information across overpasses  
 
-By combining spatial likelihoods and temporal priors, the method identifies a **water-only echo zone** in the look-bin map, regenerates cleaner waveforms, and improves retracking performance in challenging inland environments such as narrow rivers, fragmented reservoirs, and complex shorelines.
+By combining spatial likelihoods and temporal priors, the method identifies a **Nadir water-only echo zone** in the look-bin map, regenerates cleaner waveforms, and improves retracking performance in challenging inland environments such as narrow rivers, fragmented reservoirs, and complex shorelines.
 
 ---
 
